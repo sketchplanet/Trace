@@ -15,7 +15,6 @@
 ## Web
 The web application refers to the open source [Baiduyingyan](https://github.com/baidu-openmap-trace/web-demo-v3)
 ```
-IN the WebApplication dir
  
 * fis3 release demo
 * fis3 server start
