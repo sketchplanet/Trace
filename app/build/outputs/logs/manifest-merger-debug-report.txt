@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.android\build-cache\60dfaa12d525cbf7071c4239457919b98b641f20\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.android\build-cache\1b215816c83dfb4691a9297b3271e1cbbd9a478a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.android\build-cache\9f771c68fb64fd9b18607e3935d2aecc85217edc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.android\build-cache\00eea49507c1a3fc3e458fba513bde98078914c6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.android\build-cache\999956ed7c556064b0cc577d7152e922b89fe005\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.android\build-cache\e9edd61cd41a8fe26bd72636b78205de2b87ad3e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.android\build-cache\6d1eed768d0ac598c0c7bbc83106c075040b33c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.android\build-cache\180ccc27e58e117065d940fafdaf8ef9fdb24fbb\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:percent:24.2.1] C:\Users\lenovo\.android\build-cache\050d0e6c2d980bf466e1d385a9a4c879ce6747cf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.android\build-cache\6c862d938626774167d75e527a178d36aa3a9252\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test:runner:0.5] C:\Users\lenovo\.android\build-cache\eb72727396270a9c96de8ac62f163d87747a1e2e\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\lenovo\.android\build-cache\c4c281ad2099b1ebf87f8ca4000e0eb1741853fc\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\e525dfc9b50cbdb6d4480aecdc44009fe3d3f2bb\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.android\build-cache\60dfaa12d525cbf7071c4239457919b98b641f20\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:11:5-89
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:11:22-86
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:25:5-95
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:25:22-92
+application
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:27:5-113:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.android\build-cache\60dfaa12d525cbf7071c4239457919b98b641f20\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.android\build-cache\1b215816c83dfb4691a9297b3271e1cbbd9a478a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.android\build-cache\9f771c68fb64fd9b18607e3935d2aecc85217edc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.android\build-cache\00eea49507c1a3fc3e458fba513bde98078914c6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.android\build-cache\999956ed7c556064b0cc577d7152e922b89fe005\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.android\build-cache\e9edd61cd41a8fe26bd72636b78205de2b87ad3e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.android\build-cache\6d1eed768d0ac598c0c7bbc83106c075040b33c0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.android\build-cache\180ccc27e58e117065d940fafdaf8ef9fdb24fbb\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:percent:24.2.1] C:\Users\lenovo\.android\build-cache\050d0e6c2d980bf466e1d385a9a4c879ce6747cf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.android\build-cache\6c862d938626774167d75e527a178d36aa3a9252\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.test:runner:0.5] C:\Users\lenovo\.android\build-cache\eb72727396270a9c96de8ac62f163d87747a1e2e\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\lenovo\.android\build-cache\c4c281ad2099b1ebf87f8ca4000e0eb1741853fc\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.android\build-cache\e525dfc9b50cbdb6d4480aecdc44009fe3d3f2bb\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:31:9-41
+	android:supportsRtl
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:32:9-35
+	android:allowBackup
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:30:9-39
+	android:theme
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:28:9-41
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:34:9-36:64
+	android:value
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:36:13-61
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:35:13-52
+activity#com.baidu.track.activity.SplashActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:38:9-47:20
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:39:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.baidu.track.activity.MainActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:49:13-50
+activity#com.baidu.track.GUI.LoginActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:52:13-46
+activity#com.baidu.track.GUI.Codedisplay
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:55:13-44
+activity#com.baidu.track.GUI.CreatActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:58:13-46
+activity#com.baidu.track.GUI.EnterActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:61:13-46
+activity#com.baidu.track.GUI.Main2Activity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:64:13-46
+activity#com.baidu.track.activity.TracingActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:67:13-53
+activity#com.baidu.track.activity.TrackQueryActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:70:13-56
+activity#com.baidu.track.activity.FenceActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:73:13-51
+activity#com.baidu.track.activity.BosActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:76:13-49
+activity#com.baidu.track.activity.CacheManageActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:78:9-80:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:79:13-57
+activity#com.baidu.track.activity.FAQActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:81:9-83:52
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:82:13-49
+activity#com.baidu.track.activity.TracingOptionsActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:84:9-87:51
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:86:13-49
+	android:theme
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:85:13-60
+activity#com.baidu.track.activity.TrackQueryOptionsActivity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:88:9-91:51
+	android:screenOrientation
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:90:13-49
+	android:theme
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:91:13-48
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:89:13-63
+service#com.baidu.trace.LBSTraceService
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:93:9-97:41
+	android:enabled
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:95:13-35
+	android:process
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:97:13-38
+	android:exported
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:96:13-36
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:94:13-59
+service#com.baidu.location.f
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:98:9-101:41
+	android:enabled
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:100:13-35
+	android:process
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:101:13-38
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:99:13-48
+activity#com.baidu.track.GUI.signup
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:103:9-105:61
+	android:label
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:105:13-58
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:104:13-39
+activity#com.baidu.track.GUI.Fogetpassword
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:106:9-108:68
+	android:label
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:108:13-65
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:107:13-46
+activity#com.baidu.track.activity.Initial
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:109:9-111:62
+	android:label
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:111:13-59
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:110:13-45
+activity#com.baidu.track.activity.Main3Activity
+ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:112:9-69
+	android:name
+		ADDED from E:\Git\v3\BaiduTrace_AndroidSDK_v3_0_6_Sample\app\src\main\AndroidManifest.xml:112:19-57

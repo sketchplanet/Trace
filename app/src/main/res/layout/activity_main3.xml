@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_height="match_parent"
+android:layout_width="match_parent">
+<TableLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical"
+    android:stretchColumns="0,3"
+    android:background="@drawable/background">
+    <Button
+        android:id="@+id/bu1"
+        android:layout_height="165dp"
+        android:layout_below="@+id/password_layout"
+        android:layout_width="match_parent"
+        android:background="#3a5f4e"
+        android:text="轨迹追踪"
+        android:textColor="#ffffff"
+        android:textSize="25sp"/>
+    <Button
+        android:id="@+id/bu2"
+        android:layout_height="165dp"
+        android:layout_below="@+id/password_layout"
+        android:layout_width="match_parent"
+        android:background="#2b8375"
+        android:text="轨迹查询"
+        android:textColor="#ffffff"
+        android:textSize="25sp"/>
+    <Button
+        android:id="@+id/bu3"
+        android:layout_height="165dp"
+        android:layout_below="@+id/password_layout"
+        android:background="#92cf9f"
+        android:layout_width="match_parent"
+        android:text="地理围栏"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+    <Button
+        android:id="@+id/bu4"
+        android:layout_height="165dp"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/password_layout"
+        android:background="#527384"
+        android:text="缓存管理"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+</TableLayout>
+
+<TextView
+    android:id="@+id/logout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom = "true"
+    android:layout_alignParentLeft = "true"
+    android:layout_marginLeft="10dp"
+    android:paddingBottom="10dp"
+    android:clickable="true"
+    android:text="@string/logout"
+    android:textSize="18sp"
+    android:textColor="@color/white"
+    tools:ignore="RtlHardcoded" />
+
+</RelativeLayout>

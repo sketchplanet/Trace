@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:stretchColumns="0,3"
+        android:background="@drawable/background">
+        <Button
+            android:id="@+id/creatactivity"
+            android:layout_height="235dp"
+            android:layout_below="@+id/password_layout"
+            android:layout_width="match_parent"
+            android:background="#f1b136"
+            android:text="@string/creatactivity"
+            android:textColor="#ffffff"
+            android:textSize="25sp"/>
+        <Button
+            android:id="@+id/joinactivity"
+            android:layout_height="235dp"
+            android:layout_below="@+id/password_layout"
+            android:background="#13b0a5"
+            android:layout_width="match_parent"
+            android:text="@string/enteractivity"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+        <Button
+            android:id="@+id/myactivity"
+            android:layout_height="235dp"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/password_layout"
+            android:background="#CD5C5C"
+            android:text="@string/myactivity"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom = "true"
+        android:layout_alignParentLeft = "true"
+        android:layout_marginLeft="10dp"
+        android:paddingBottom="10dp"
+        android:clickable="true"
+        android:text="@string/logout"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        tools:ignore="RtlHardcoded" />
+
+</RelativeLayout>
